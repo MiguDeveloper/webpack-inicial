@@ -11,7 +11,7 @@ npm install
 y para construir el build de producción
 
 ```
-npm run buil
+npm run build
 ```
 
 build de desarrollo
